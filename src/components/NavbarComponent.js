@@ -13,6 +13,10 @@ import {
   DropdownItem,
   NavbarText
 } from 'reactstrap';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faCoffee } from '@fortawesome/free-solid-svg-icons'
+
+
 
 const NavbarComponent = (props) => {
   const [isOpen, setIsOpen] = useState(false);
