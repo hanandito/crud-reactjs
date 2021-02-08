@@ -50,7 +50,7 @@ const NavbarComponent = (props) => {
               </DropdownMenu>
             </UncontrolledDropdown>
           </Nav>
-          <NavbarText>Simple Text</NavbarText>
+          <NavbarText>Admin</NavbarText>
         </Collapse>
       </Navbar>
     </div>
